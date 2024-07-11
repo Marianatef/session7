@@ -1,0 +1,24 @@
+h1 {
+  color: green;
+}
+.content {
+  background-color: lightblue;
+}
+h3 {
+  color: orange;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+table {
+  width: 50%;
+  height: 120px;
+  background-color: lightgray;
+}
+.video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
